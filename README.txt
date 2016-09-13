@@ -1,0 +1,1 @@
+meu arquivo para estudar temperaturas no rio
